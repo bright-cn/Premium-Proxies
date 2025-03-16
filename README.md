@@ -12,13 +12,13 @@ Bright Data 的 [高级代理](https://www.bright.cn/solutions/premium-proxy) �
 ## 主要特性
 - **全球覆盖**：在 [195 个国家/地区](https://www.bright.cn/locations)提供高级代理。
 - **热门代理 IP 所在地区**
-- [**美国代理**](https://www.bright.cn/locations/united-states)
-- [**中国代理**](https://www.bright.cn/locations/cn)
-- [**英国代理**](https://www.bright.cn/locations/gb)
-- [**德国代理**](https://www.bright.cn/locations/de)
-- [**加拿大代理**](https://www.bright.cn/locations/ca)
-- [**印度代理**](https://www.bright.cn/locations/in)
-- [**日本代理**](https://www.bright.cn/locations/jp)
+    - [**美国代理**](https://www.bright.cn/locations/united-states)
+    - [**中国代理**](https://www.bright.cn/locations/cn)
+    - [**英国代理**](https://www.bright.cn/locations/gb)
+    - [**德国代理**](https://www.bright.cn/locations/de)
+    - [**加拿大代理**](https://www.bright.cn/locations/ca)
+    - [**印度代理**](https://www.bright.cn/locations/in)
+    - [**日本代理**](https://www.bright.cn/locations/jp)
 - **高成功率**：在抓取项目中成功率可高达 99.95%。
 - **响应速度快**：平均响应时间约为 0.7 秒。
 - **合规来源**：所有代理都通过了明确的用户许可获取。
